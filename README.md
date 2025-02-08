@@ -1,1 +1,7 @@
 # dotconf
+
+## Installation
+
+```bash
+stow .
+```
