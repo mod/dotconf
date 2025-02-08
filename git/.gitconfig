@@ -1,0 +1,20 @@
+[user]
+	email = mod@tail.cat
+	name = MoD
+[color]
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+[core]
+	editor = nvim
+[alias]
+	st = status
+	br = branch
+	co = checkout
+	ci = commit
+	df = diff
+[push]
+	default = simple
+[pull]
+	ff = only
